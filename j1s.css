@@ -18,5 +18,4 @@ img{
 .player{
 	position: absolute;
 	z-index: 100000;
-	left: 600px;
 }
